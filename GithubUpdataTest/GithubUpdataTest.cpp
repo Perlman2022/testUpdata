@@ -7,6 +7,7 @@
 using namespace std;
 int main()
 {
+	cout << "yes!!!yes" << endl;
 	cout << "hellow nidi shijie,haha" << endl;
 	cout << "add data 05.26 10:53" << endl;
 	return 0;

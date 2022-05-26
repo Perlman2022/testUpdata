@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
 	cout << "hellow nidi shijie,haha" << endl;
-    return 0;
+	cout << "add data 05.26 10:53" << endl;
+	return 0;
 }
 
